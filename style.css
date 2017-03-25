@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed:300,300i,400&subset=latin-ext');
+
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: 300;
+    line-height: 1.4em;
+}
+
+/* Headings */
+
+h1 {
+    display: block;
+    font-size: 0;
+    width: 100%;
+    padding-bottom: 100%;
+    background: url(http://i.imgur.com/QvzFQ8n.jpg);
+    background-size: cover;
+    margin-bottom: 30px;
+}
+
+h2 {
+    display: none;
+}
+
+/* Gigs */
+
+.gig {
+    margin-bottom: 20px;
+}
+
+.gig .title {
+    text-transform: uppercase;
+}
+
+.gig .date {
+    color: red;
+    padding-right: 1ex;
+}
+
+.gig p {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+/* Devices */
+
+@media only screen and (min-width: 700px) {
+    body {
+        padding-top: 30px;
+    }
+    h1 {
+        float: left;
+        width: 30vw;
+        height: 30vw;
+        padding: 0;
+    }
+    .content {
+        margin-left: 30vw;
+        padding-left: 30px;
+    }
+    .container {
+        width: 80vw;
+        margin: auto;
+    }
+}
+
+@media only screen and (max-width: 1000px) {
+    .gig .date {
+        display: block;
+    }
+}

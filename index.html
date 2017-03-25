@@ -1,11 +1,31 @@
+---
+jekyll: Yes, please
+---
 <!DOCTYPE html>
 <html lang="cs">
 <head>
     <meta charset="utf-8">
     <title>Kristýna Znamenáčková</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <p>Všechno bude.</p>
+    <div class="container">
+        <h1><span>Kristýna Znamenáčková</span></h1>
+        <div class="content">
+            <h2>Koncerty</h2>
+            {% for gig in site.data.koncerty %}
+            <div class="gig">
+                <p class="title"><span class="date">{{ gig.datum }}</span> {{ gig.nazev }}</p>
+                {% if gig.program %}
+                <p class="playlist">{{ gig.program }}</p>
+                {% endif %}
+                {% if gig.text %}
+                <p class="details">{{ gig.text }}</p>
+                {% endif %}
+                <p class="where">{{ gig.misto }}</p>
+            </div>
+            {% endfor %}
+        </div>
+    <div class="container">
 </body>
 </html>
-
