@@ -16,7 +16,8 @@ jekyll: Yes, please
         <h1><span>Kristýna Znamenáčková</span></h1>
         <div class="content">
             <h2>Koncerty</h2>
-            {% for gig in site.data.koncerty %}
+            {% assign upcomingGigs = site.data.koncerty | where: "aktualni", "ano" %}
+            {% for gig in upcomingGigs %}
             <div class="gig">
                 <p class="title"><span class="date">{{ gig.datum }}</span> {{ gig.nazev }}</p>
                 {% if gig.program %}

@@ -7,24 +7,30 @@
   misto: evangelický kostel, Boskovice
   datum: 20. dubna, 19.00
   text: "Spoluúčinkují: Pěvecký sbor Nota při Gymnáziu Boskovice, klavír: Jiří Hrubý"
+  aktualni: ano
 - nazev: Podvečerní klavírní koncert na faře
   datum: 5. května, 18.00
   misto: Husův sbor, ul. Botanická, Brno
   program: Janáček, Slavický, Martinů
+  aktualni: ano
 - nazev: Koncert v rámci KPH Boskovice
   datum: 18. května, 19.00
   misto: sál zámku Boskovice
   program: Martinů, Slavický, Janáček
   text: "Spoluúčinkuje: Michal Ševčík (housle)"
+  aktualni: ano
 - nazev: Slavnostní koncert ZUŠ Kostelec nad Orlicí
   datum: 23. května, 18.00
   misto: zrcadlový sál Nového zámku
   program: Janáček, Slavický, Martinů
+  aktualni: ano
 - nazev: Absolventský magisterský koncert
   datum: 25. května, 19.30
   misto: aula JAMU, Komenského náměstí, Brno
   program: Janáček, Slavický, Martinů
+  aktualni: ano
 - nazev: Koncert v rámci klavírních kurzů Prázdninové rozehrávání
   datum: 30. srpna
   mist: sál Konzervatoře Brno
   program: Bach-Busoni, Rachmaninov, Janáček, Slavický
+  aktualni: ano
