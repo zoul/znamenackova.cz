@@ -36,5 +36,15 @@
 - nazev: Koncert v rámci klavírních kurzů Prázdninové rozehrávání
   datum: 30. srpna
   misto: sál Konzervatoře Brno
-  program: Bach-Busoni, Rachmaninov, Janáček, Slavický
+  program: Janáček, Slavický
   aktualni: ano
+- nazev: Koncert pro Společnost Bohuslava Martinů, Brno
+  datum: říjen
+  místo: ZUŠ Vítězslavy Kaprálové, Brno
+- nazev: Koncert pro Společnost Bohuslava Martinů, Polička
+  datum: říjen
+  místo: Gymnázium Polička
+- nazev: Adventní koncert
+  datum: 26. listopadu
+  místo: evangelický kostel Boskovice
+  program: Franck, Rachmaninov, Janáček, Slavický
