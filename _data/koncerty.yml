@@ -41,10 +41,13 @@
 - nazev: Koncert pro Společnost Bohuslava Martinů, Brno
   datum: říjen
   místo: ZUŠ Vítězslavy Kaprálové, Brno
+  aktualni: ano
 - nazev: Koncert pro Společnost Bohuslava Martinů, Polička
   datum: říjen
   místo: Gymnázium Polička
+  aktualni: ano
 - nazev: Adventní koncert
   datum: 26. listopadu
   místo: evangelický kostel Boskovice
   program: Franck, Rachmaninov, Janáček, Slavický
+  aktualni: ano
