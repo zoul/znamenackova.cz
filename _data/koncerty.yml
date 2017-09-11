@@ -37,16 +37,30 @@
   datum: 30. srpna
   misto: sál Konzervatoře Brno
   program: Janáček, Slavický
+- nazev: Vernisáž výstavy "Teď pojedeme přes Švýcary a pak Paříž"
+  datum: 23. září, 14 hodin
+  misto: Muzeum Bohuslava Martinů, Polička
 - nazev: Koncert pro Společnost Bohuslava Martinů, Brno
   datum: říjen
   misto: ZUŠ Vítězslavy Kaprálové, Brno
   aktualni: ano
 - nazev: Koncert pro Společnost Bohuslava Martinů, Polička
-  datum: říjen
+  datum: listopad
   misto: Gymnázium Polička
+  aktualni: ano
+- nazev: Podvečerní koncert na zámku
+  datum: 22. listopadu, 18 hodin
+  misto: Zámek Vsetín
+  program: Franck, Rachmaninov, Chopin, Slavický
   aktualni: ano
 - nazev: Adventní koncert
   datum: 26. listopadu
   misto: evangelický kostel Boskovice
-  program: Franck, Rachmaninov, Janáček, Slavický
+  program: Franck, Rachmaninov, Chopin, Slavický
+  aktualni: ano
+- nazev: Komorní koncert v rámci Dnů Bohuslava Martinů
+  datum: 12. prosince, 19:30 
+  misto: Sál Martinů, Lichtenštejnský palác, Praha
+  program: Bohuslav Martinů: Klavírní kvintet č. 1, H. 229
+  text: "Účinkuje: Stamicovo kvarteto"
   aktualni: ano
