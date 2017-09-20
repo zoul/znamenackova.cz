@@ -41,6 +41,11 @@
   datum: 23. září, 14 hodin
   misto: Muzeum Bohuslava Martinů, Polička
   aktualni: ano
+- nazev: Eric Satie: Vexations
+  datum: 5. - 6. října
+  misto: Foyer Besedního domu
+  text: "Koncert v rámci festivalu Moravský podzim. Kompletní provedení hudebního experimentu z roku 1893, štafetová, 28 hodin dlouhá klavírní produkce."
+  aktualni: ano
 - nazev: Koncert pro Společnost Bohuslava Martinů, Brno
   datum: 16. října
   misto: ZUŠ Vítězslavy Kaprálové, Brno
@@ -58,6 +63,15 @@
   datum: 26. listopadu
   misto: evangelický kostel Boskovice
   program: Franck, Rachmaninov, Chopin, Slavický
+  aktualni: ano
+- nazev: Koncert děl mladých autorů
+  datum: 29. listopadu
+  misto: JAMU Brno
+  program: Markéta Husková
+  aktualni: ano  
+- nazev: Koncert Klubu moravských skladatelů
+  datum: 30. listopadu
+  misto: Konzervatoř Brno
   aktualni: ano
 - nazev: Komorní koncert v rámci Dnů Bohuslava Martinů
   datum: 12. prosince, 19.30 
