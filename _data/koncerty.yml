@@ -58,11 +58,6 @@
   misto: Zámek Vsetín
   program: Franck, Rachmaninov, Chopin, Slavický
   aktualni: ano
-- nazev: Adventní koncert
-  datum: 3. prosince
-  misto: evangelický kostel Boskovice
-  program: Franck, Rachmaninov, Chopin, Slavický
-  aktualni: ano
 - nazev: Koncert děl mladých autorů
   datum: 29. listopadu
   misto: JAMU Brno
@@ -71,6 +66,11 @@
 - nazev: Koncert Klubu moravských skladatelů
   datum: 30. listopadu
   misto: Konzervatoř Brno
+  aktualni: ano
+- nazev: Adventní koncert
+  datum: 3. prosince
+  misto: evangelický kostel Boskovice
+  program: Franck, Rachmaninov, Chopin, Slavický
   aktualni: ano
 - nazev: Komorní koncert v rámci Dnů Bohuslava Martinů
   datum: 12. prosince, 19.30 
