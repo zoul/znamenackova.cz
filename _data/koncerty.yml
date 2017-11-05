@@ -47,14 +47,15 @@
 - nazev: Koncert pro Společnost Bohuslava Martinů, Brno
   datum: 16. října
   misto: ZUŠ Vítězslavy Kaprálové, Brno
-- nazev: Koncert pro Společnost Bohuslava Martinů, Polička
-  datum: listopad
-  misto: Gymnázium Polička
-  aktualni: ano
 - nazev: Podvečerní koncert na zámku
   datum: 22. listopadu, 18 hodin
   misto: Zámek Vsetín
-  program: Franck, Rachmaninov, Chopin, Slavický
+  program: Janáček, Franck, Chopin, Martinů
+  aktualni: ano
+- nazev: Koncert pro Společnost Bohuslava Martinů, Polička
+  datum: 23. listopadu, 18 hodin, Gymnázium Polička
+  misto: Gymnázium Polička
+  program: Franck, Martinů
   aktualni: ano
 - nazev: Koncert děl mladých autorů
   datum: 29. listopadu
@@ -68,7 +69,7 @@
 - nazev: Adventní koncert
   datum: 3. prosince
   misto: evangelický kostel Boskovice
-  program: Franck, Rachmaninov, Chopin, Slavický
+  program: Franck, Chopin, Slavický
   aktualni: ano
 - nazev: Komorní koncert v rámci Dnů Bohuslava Martinů
   datum: 12. prosince, 19.30 
