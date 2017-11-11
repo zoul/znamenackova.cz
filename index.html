@@ -1,44 +1,32 @@
 ---
-jekyll: Yes, please
+layout: default
+id: koncerty
 ---
-<!DOCTYPE html>
-<html lang="cs">
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Kristýna Znamenáčková</title>
-    <link rel="stylesheet" href="style.css">
-    <meta property="og:title" content="Kristýna Znamenáčková">
-    <meta property="og:image" content="http://i.imgur.com/QvzFQ8n.jpg">
-    <script>
-    window.onload = function() {
-        var head = document.getElementsByTagName('h1')[0]
-        var index = (new Date()).getHours()
-        var img = "url(img/" + index + ".png)"
-        head.style.backgroundImage = img
-    }
-    </script>
-</head>
-<body>
-    <div class="container">
-        <h1><span>Kristýna Znamenáčková</span></h1>
-        <div class="content">
-            <h2>Koncerty</h2>
-            {% assign upcomingGigs = site.data.koncerty | where: "aktualni", "ano" %}
-            {% for gig in upcomingGigs %}
-            <div class="gig">
-                <p class="title"><span class="date">{{ gig.datum }}</span> {{ gig.nazev }}</p>
-                {% if gig.program %}
-                <p class="playlist">{{ gig.program }}</p>
-                {% endif %}
-                {% if gig.text %}
-                <p class="details">{{ gig.text }}</p>
-                {% endif %}
-                <p class="where">{{ gig.misto }}</p>
-            </div>
-            {% endfor %}
-            <p class="footer"><a href="mailto:zn.kristyna@gmail.com">zn.kristyna@gmail.com</a></p>
-        </div>
-    <div class="container">
-</body>
-</html>
+
+<script>
+window.onload = function() {
+    var head = document.getElementsByTagName('h1')[0]
+    var index = (new Date()).getHours()
+    var img = "url(img/" + index + ".png)"
+    head.style.backgroundImage = img
+}
+</script>
+
+<h2>Koncerty</h2>
+{% assign upcomingGigs = site.data.koncerty | where: "aktualni", "ano" %}
+{% for gig in upcomingGigs %}
+<div class="gig">
+    <p class="title"><span class="date">{{ gig.datum }}</span> {{ gig.nazev }}</p>
+    {% if gig.program %}
+    <p class="playlist">{{ gig.program }}</p>
+    {% endif %}
+    {% if gig.text %}
+    <p class="details">{{ gig.text }}</p>
+    {% endif %}
+    <p class="where">{{ gig.misto }}</p>
+</div>
+{% endfor %}
+<p class="footer">
+    <a href="mailto:zn.kristyna@gmail.com">kontakt</a> ✽
+    <a href="cv.html">životopis</a>
+</p>
