@@ -10,6 +10,14 @@ jekyll: Yes, please
     <link rel="stylesheet" href="style.css">
     <meta property="og:title" content="Kristýna Znamenáčková">
     <meta property="og:image" content="http://i.imgur.com/QvzFQ8n.jpg">
+    <script>
+    window.onload = function() {
+        var head = document.getElementsByTagName('h1')[0]
+        var index = (new Date()).getHours()
+        var img = "url(img/" + index + ".png)"
+        head.style.backgroundImage = img
+    }
+    </script>
 </head>
 <body>
     <div class="container">
