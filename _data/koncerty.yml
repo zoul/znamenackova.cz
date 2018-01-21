@@ -71,7 +71,6 @@
   misto: Sál Martinů, Lichtenštejnský palác, Praha
   program: "Bohuslav Martinů: Klavírní kvintet č. 1, H. 229"
   text: "Účinkuje: Stamicovo kvarteto"
-  aktualni: ano
 - nazev: Koncert na faře
   datum: 12. března, 18:00
   misto: Husův sbor, Botanická, Brno
@@ -98,6 +97,7 @@
   misto: Evangelický kostel Boskovice
   program: Ravel, Debussy, Fauré, Martinů
   text: "Účinkuje: Markéta Cukrová (mezzosoprán)"
+  aktualni: ano
 - nazev: Francie a Martinů
   datum: 24. října
   misto: Plzeň
