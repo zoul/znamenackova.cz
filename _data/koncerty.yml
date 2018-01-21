@@ -72,3 +72,35 @@
   program: "Bohuslav Martinů: Klavírní kvintet č. 1, H. 229"
   text: "Účinkuje: Stamicovo kvarteto"
   aktualni: ano
+- nazev: Koncert na faře
+  datum: 12. března, 18:00
+  misto: Husův sbor, Botanická, Brno
+  program: Franck, Chopin, Martinů
+  aktualni: ano
+- nazev: Koncert v Brně-Komíně
+  datum: 18. března, 18:00
+  misto: Brno-Komín, radnice
+  aktualni: ano
+- nazev: Benefiční koncert pro hospic Svaté Alžběty
+  datum: 28. března, 19:00
+  misto: Dům umění, Brno
+  program: Nedbal, Wienawski
+  text: "Spoluúčinkuje: Natálie Kulina (housle)"
+  aktualni: ano 
+- nazev: Koncert v kostele Janovičky
+  datum: 26. srpna
+  misto: Janovičky (Vysočina)
+  program: Arvo Pärt
+  text: "Spoluúčinkuje: Petra Machková-Čadová (violoncello)"
+  aktualni: ano
+- nazev: Francie a Martinů
+  datum: 22. října, 18:00
+  misto: Evangelický kostel Boskovice
+  program: Ravel, Debussy, Fauré, Martinů
+  text: "Účinkuje: Markéta Cukrová (mezzosoprán)"
+- nazev: Francie a Martinů
+  datum: 24. října
+  misto: Plzeň
+  program: Ravel, Debussy, Fauré, Martinů
+  text: "Účinkuje: Markéta Cukrová (mezzosoprán)"
+  aktualni: ano
