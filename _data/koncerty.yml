@@ -72,20 +72,28 @@
   program: "Bohuslav Martinů: Klavírní kvintet č. 1, H. 229"
   text: "Účinkuje: Stamicovo kvarteto"
 - nazev: Koncert na faře
-  datum: 12. března, 18:00
+  datum: 16. března, 18:00 
   misto: Husův sbor, Botanická, Brno
-  program: Franck, Chopin, Martinů
+  program: Mozart, Janáček, Chopin
   aktualni: ano
 - nazev: Koncert v Brně-Komíně
   datum: 18. března, 18:00
   misto: Brno-Komín, radnice
   aktualni: ano
+- nazev: Velikonoční koncert
+  datum: 27. března, 18:00
+  misto: Evangelický koncert Boskovice
+  program: Chopin, Holacký, Nedbal, Lutoslawski
+  text: "Spoluúčinkuje: Natálie Kulina (housle)"
 - nazev: Benefiční koncert pro hospic Svaté Alžběty
-  datum: 28. března, 19:00
+  datum: 28. března, 19:30
   misto: Dům umění, Brno
-  program: Nedbal, Wienawski
+  program: Chopin, Holacký, Nedbal, Lutoslawski
   text: "Spoluúčinkuje: Natálie Kulina (housle)"
   aktualni: ano 
+- nazev: Doktorský recitál
+  datum: 11. června, 19:30
+  misto: Aula HF JAMU v Brně
 - nazev: Koncert v kostele Janovičky
   datum: 26. srpna
   misto: Janovičky (Vysočina)
