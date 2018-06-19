@@ -92,6 +92,14 @@
 - nazev: Doktorský recitál
   datum: 11. června, 19:30
   misto: Aula HF JAMU v Brně
+- nazev: Transylvánie za humny
+  datum: 5. června
+  misto: Moravský krumlov (zámek)
+- nazev: Transylvánie za humny
+  datum: 20. června, 20:00
+  misto: Reduta Brno
+  program: HK Gruber: Frankenstein!
+  text: "Účinkuje Iva Bittová a Ensemble Opera Diversa"
   aktualni: ano
 - nazev: Koncert v kostele Janovičky
   datum: 26. srpna
@@ -100,14 +108,20 @@
   text: "Spoluúčinkuje: Petra Machková-Čadová (violoncello)"
   aktualni: ano
 - nazev: Francie a Martinů
+  datum: 10. října
+  místo: Plzeň
+  program: Ravel, Debussy, Fauré, Martinů
+  text: "Koncert v rámci festivalu Česká píseň, účinkuje Markéta Cukrová"
+  aktualni: ano
+- nazev: Francie a Martinů
   datum: 22. října, 18:00
   misto: Evangelický kostel Boskovice
   program: Ravel, Debussy, Fauré, Martinů
-  text: "Účinkuje: Markéta Cukrová (mezzosoprán)"
+  text: "Účinkuje: Markéta Cukrová"
   aktualni: ano
-- nazev: Francie a Martinů
+- nazev: Transylvánie za humny
   datum: 24. října
-  misto: Plzeň
-  program: Ravel, Debussy, Fauré, Martinů
-  text: "Účinkuje: Markéta Cukrová (mezzosoprán)"
+  misto: Praha
+  program: HK Gruber: Frankenstein!
+  text: "Účinkuje Iva Bittová a Ensemble Opera Diversa"
   aktualni: ano
