@@ -98,7 +98,7 @@
 - nazev: Transylvánie za humny
   datum: 20. června, 20:00
   misto: Reduta Brno
-  program: HK Gruber: Frankenstein!
+  program: "HK Gruber: Frankenstein!"
   text: "Účinkuje Iva Bittová a Ensemble Opera Diversa"
   aktualni: ano
 - nazev: Koncert v kostele Janovičky
@@ -122,6 +122,6 @@
 - nazev: Transylvánie za humny
   datum: 24. října
   misto: Praha
-  program: HK Gruber: Frankenstein!
+  program: "HK Gruber: Frankenstein!"
   text: "Účinkuje Iva Bittová a Ensemble Opera Diversa"
   aktualni: ano
