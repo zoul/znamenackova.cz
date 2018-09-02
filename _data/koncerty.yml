@@ -100,13 +100,11 @@
   misto: Reduta Brno
   program: "HK Gruber: Frankenstein!"
   text: "Účinkuje Iva Bittová a Ensemble Opera Diversa"
-  aktualni: ano
 - nazev: Koncert v kostele Janovičky
   datum: 26. srpna
   misto: Janovičky (Vysočina)
   program: Arvo Pärt
   text: "Spoluúčinkuje: Petra Machková-Čadová (violoncello)"
-  aktualni: ano
 - nazev: Francie a Martinů
   datum: 10. října
   místo: Plzeň
@@ -124,4 +122,9 @@
   misto: Praha
   program: "HK Gruber: Frankenstein!"
   text: "Účinkuje Iva Bittová a Ensemble Opera Diversa"
+  aktualni: ano
+- nazev: Klavírní recitál
+  datum: 30. října
+  misto: Cheng Kung University, Tainan, Taiwan
+  program: Janáček, Martinů
   aktualni: ano
