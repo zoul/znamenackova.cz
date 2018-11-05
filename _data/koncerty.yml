@@ -110,21 +110,34 @@
   místo: Plzeň
   program: Ravel, Debussy, Fauré, Martinů
   text: "Koncert v rámci festivalu Česká píseň, účinkuje Markéta Cukrová"
-  aktualni: ano
 - nazev: Francie a Martinů
   datum: 22. října, 19:00
   misto: Evangelický kostel Boskovice
   program: Ravel, Debussy, Fauré, Martinů
   text: "Účinkuje: Markéta Cukrová"
-  aktualni: ano
 - nazev: Transylvánie za humny
   datum: 24. října
   misto: Praha
   program: "HK Gruber: Frankenstein!"
   text: "Účinkuje Iva Bittová a Ensemble Opera Diversa"
-  aktualni: ano
 - nazev: Klavírní recitál
   datum: 30. října
   misto: Cheng Kung University, Tainan, Taiwan
   program: Janáček, Martinů
+- nazev: Koncert Markéty Cukrové a Kristýny Znamenáčkové
+  datum: 25. listopadu, 19:30
+  místo: Studio 1, Vinohradská 12, Praha
+  program: Debussy, Fauré, Ravel, Martinů
+  text: "Koncert vysílá živě ČRo Vltava, stanice D dur."
+  aktualni: ano
+- nazev: Klavírní recitál
+  datum: 27. listopadu
+  misto: Kostelec nad Orlicí
+  program: Janáček, Martinl
+  aktualni: ano
+- nazev: Adventní koncert
+  datum: 23. prosince
+  misto: CB Letovice
+  program: Mozart, Ravel, Janáček
+  text: "Účinkuje Natálie Kulina (housle)."
   aktualni: ano
