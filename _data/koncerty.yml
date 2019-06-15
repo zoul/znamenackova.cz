@@ -129,15 +129,27 @@
   misto: Studio 1, Vinohradská 12, Praha
   program: Debussy, Fauré, Ravel, Martinů
   text: "Koncert vysílá živě ČRo Vltava, stanice D dur."
-  aktualni: ano
 - nazev: Klavírní recitál
   datum: 27. listopadu
   misto: Kostelec nad Orlicí
   program: Janáček, Martinů
-  aktualni: ano
 - nazev: Adventní koncert
   datum: 23. prosince
   misto: CB Letovice
   program: Mozart, Ravel, Janáček
   text: "Účinkuje Natálie Kulina (housle)."
+- nazev: Koncert Ensemble Frizzante a Romana Hozy
+  datum: 13. června, 19:30
+  misto: Besední dům Brno, foyer
+  program: Ravel, Williams
+  aktualni: ano
+- nazev: Koncert absolventů konzervatoře
+  datum: 28. srpna, 19:00
+  misto: ZUŠ Smetanova, Brno
+  program: Martinů, Smetana
+  aktualni: ano
+- nazev: Doktorandský recitál
+  datum: 30. října, 19:30
+  misto: Aula JAMU, Brno
+  program: Bach, Brahms, Skrjabin
   aktualni: ano
