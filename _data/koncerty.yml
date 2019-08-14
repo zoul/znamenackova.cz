@@ -142,14 +142,24 @@
   datum: 13. června, 19:30
   misto: Besední dům Brno, foyer
   program: Ravel, Williams
-  aktualni: ano
 - nazev: Koncert absolventů konzervatoře
   datum: 28. srpna, 19:00
   misto: ZUŠ Smetanova, Brno
   program: Martinů, Smetana
   aktualni: ano
+- nazev: Výstava maleb Otakara Kubína
+  datum: 19. září, 17:00
+  misto: Muzeum Boskovicka, Hradní ul.
+  program: Claude Debussy
+  aktualni: ano
 - nazev: Doktorandský recitál
   datum: 30. října, 19:30
   misto: Aula JAMU, Brno
   program: Bach, Brahms, Skrjabin
+  aktualni: ano
+- nazev: Soudobá hudba v Prostoru
+  datum: 20. listopadu, 19:00
+  misto: Prostor, Boskovice
+  program: Arvo Pärt, Gavin Bryars, Philip Glass
+  text: "Účinkuje Petra Machková-Čadová (violoncello)."
   aktualni: ano
