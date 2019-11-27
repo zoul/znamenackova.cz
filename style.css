@@ -15,6 +15,10 @@ a, a:visited {
     border-bottom: 1px solid red;
 }
 
+.current {
+    color: gray;
+}
+
 /* Headings */
 
 h1 {
