@@ -4,7 +4,7 @@ body {
     font-family: 'Roboto Condensed', sans-serif;
     font-weight: 300;
     line-height: 1.4em;
-    padding-bottom: 30px;
+    padding: 20px;
 }
 
 /* Typo */
@@ -76,6 +76,7 @@ h2 {
     }
     .container {
         width: 80vw;
+        max-width: 130ex;
         margin: auto;
     }
 }
