@@ -14,18 +14,26 @@ window.onload = function() {
 
 <h2>Koncerty</h2>
 {% assign upcomingGigs = site.data.koncerty | where: "aktualni", "ano" %}
-{% for gig in upcomingGigs %}
-<div class="gig">
-    <p class="title"><span class="date">{{ gig.datum }}</span> {{ gig.nazev }}</p>
-    {% if gig.program %}
-    <p class="playlist">{{ gig.program }}</p>
-    {% endif %}
-    {% if gig.text %}
-    <p class="details">{{ gig.text }}</p>
-    {% endif %}
-    <p class="where">{{ gig.misto }}</p>
-</div>
-{% endfor %}
+{% if upcomingGigs.size > 0 %}
+    {% for gig in upcomingGigs %}
+    <div class="gig">
+        <p class="title"><span class="date">{{ gig.datum }}</span> {{ gig.nazev }}</p>
+        {% if gig.program %}
+        <p class="playlist">{{ gig.program }}</p>
+        {% endif %}
+        {% if gig.text %}
+        <p class="details">{{ gig.text }}</p>
+        {% endif %}
+        <p class="where">{{ gig.misto }}</p>
+    </div>
+    {% endfor %}
+{% else %}
+    <p>Na rok 2020 jsou v plánu komorní projekty s Pavlou Markovou a Janou Vondrů.
+    V březnu vyjde CD Opera Diversa s nahrávkami Concentus Biiugis a Rustica Musa II.
+    Jana Nováka. K tomu se určitě objeví něco nového, tak sem koukněte zase za čas!
+    Případně, jestli chcete koncert u sebe ve městě nebo doma, neváhejte se ozvat.</p>
+{% endif %}
+
 <p class="footer">
     <a href="mailto:zn.kristyna@gmail.com">kontakt</a> ✽
     <a href="cv.html">životopis</a>
