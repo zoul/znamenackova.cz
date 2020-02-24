@@ -164,3 +164,14 @@
   misto: Prostor, Boskovice
   program: Arvo Pärt, Gavin Bryars, Philip Glass
   text: "Účinkuje Petra Machková-Čadová (violoncello)."
+- nazev: Koncert na JAMU
+  datum: 10. března, 19:30
+  misto: Aula JAMU, Komenského nám., Brno
+  program: Farhad Poupel, Bedřich Smetana, Bohuslav Martinů
+  aktualni: ano
+- nazev: Výroční koncert klavírního oddělení Konzervatoře Brno
+  datum: 27. března, 18:00
+  misto: Sál Leoše Janáčka, Konzervatoř Brno
+  program: Bohuslav Martinů
+  text: "Účinkují absolventi konzervatoře Brno, koncert se pořádá v rámci oslav stého výročí založení školy."
+  aktualni: ano
