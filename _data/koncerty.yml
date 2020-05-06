@@ -168,10 +168,24 @@
   datum: 10. března, 19:30
   misto: Aula JAMU, Komenského nám., Brno
   program: Farhad Poupel, Bedřich Smetana, Bohuslav Martinů
-  aktualni: ano
 - nazev: Výroční koncert klavírního oddělení Konzervatoře Brno
   datum: 27. března, 18:00
   misto: Sál Leoše Janáčka, Konzervatoř Brno
   program: Bohuslav Martinů
   text: "Účinkují absolventi konzervatoře Brno, koncert se pořádá v rámci oslav stého výročí založení školy."
-  aktualni: ano
+- nazev: Recitál na Staré radnici
+  datum: 30. června
+  misto: Křišťálový sál staré radnice, Brno
+  program: Koechlin, Mompou, Martinů
+  text: "Koncert se uskuteční v produkci Opera Diversa."
+- nazev: Koncert Kristýny Znamenáčkové a Jany Vondrů
+  datum: 15. srpna
+  program: Kaprálová, Martinů
+- nazev: Čtyřruční klavírní dílo Antonína Dvořáka
+  datum: 19. září
+  misto: Praha
+  text: "Koncert se uskuteční v rámci festivalu Dvořákova Praha."
+- nazev: Klavírní a písňová tvorba Jana Nováka
+  datum: 20. října
+  misto: Kroměříž
+  text: "Spoluúčinkují Eliška Hrochová a Pavla Marková."
