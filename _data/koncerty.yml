@@ -178,14 +178,18 @@
   misto: Křišťálový sál staré radnice, Brno
   program: Koechlin, Mompou, Martinů
   text: "Koncert se uskuteční v produkci Opera Diversa."
+  aktualni: ano
 - nazev: Koncert Kristýny Znamenáčkové a Jany Vondrů
   datum: 15. srpna
   program: Kaprálová, Martinů
+  aktualni: ano
 - nazev: Čtyřruční klavírní dílo Antonína Dvořáka
   datum: 19. září
   misto: Praha
   text: "Koncert se uskuteční v rámci festivalu Dvořákova Praha."
+  aktualni: ano
 - nazev: Klavírní a písňová tvorba Jana Nováka
   datum: 20. října
   misto: Kroměříž
   text: "Spoluúčinkují Eliška Hrochová a Pavla Marková."
+  aktualni: ano
