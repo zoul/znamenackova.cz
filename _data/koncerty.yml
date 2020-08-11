@@ -180,16 +180,22 @@
   text: "Koncert se uskuteční v produkci Opera Diversa."
   aktualni: ano
 - nazev: Koncert Kristýny Znamenáčkové a Jany Vondrů
-  datum: 15. srpna
+  datum: 14. srpna, 18:00
+  misto: Poutní kostel Křemešník u Pelhřimova
   program: Kaprálová, Martinů
+  aktualni: ano
+- nazev: Výroční koncert klavírního oddělení Konzervatoře Brno
+  datum: 18. září, 18:00
+  misto: Sál Leoše Janáčka, Konzervatoř Brno
+  program: B. Martinů: Tři české tance
   aktualni: ano
 - nazev: Čtyřruční klavírní dílo Antonína Dvořáka
   datum: 19. září
   misto: Praha
   text: "Koncert se uskuteční v rámci festivalu Dvořákova Praha."
   aktualni: ano
-- nazev: Klavírní a písňová tvorba Jana Nováka
-  datum: 20. října
+- nazev: Musa Bohemica / Klavírní a písňová tvorba Jana Nováka
+  datum: 6. října
   misto: Kroměříž
   text: "Spoluúčinkují Eliška Hrochová a Pavla Marková."
   aktualni: ano
