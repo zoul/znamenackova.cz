@@ -182,19 +182,28 @@
   datum: 14. srpna, 18:00
   misto: Poutní kostel Křemešník u Pelhřimova
   program: Kaprálová, Martinů
-  aktualni: ano
 - nazev: Výroční koncert klavírního oddělení Konzervatoře Brno
   datum: 18. září, 18:00
   misto: Sál Leoše Janáčka, Konzervatoř Brno
   program: B. Martinů, Tři české tance
-  aktualni: ano
 - nazev: Čtyřruční klavírní dílo Antonína Dvořáka
   datum: 19. září
   misto: Praha
   text: "Koncert se uskuteční v rámci festivalu Dvořákova Praha."
-  aktualni: ano
 - nazev: Musa Bohemica
-  datum: 6. října
+  datum: 20. října
   misto: Kroměříž
   text: "Spoluúčinkují Eliška Hrochová a Pavla Marková."
+  aktualni: ano
+- nazev: Písně bezvětří
+  datum: 19. listopadu, 19:00
+  misto: Dům umění města Brna
+  program: B. Martinů, V. Kaprálová
+  text: "Spoluúčinkují Jana Vondrů (soprán) a Tereza Marečková (mluvené slovo)."
+  aktualni: ano
+- nazev: Hudební inventura 2020
+  datum: 23. listopadu 19:00
+  misto: Konvent Milosrdných bratří, Brno
+  program: J. Slabihoudek
+  text: "V rámci orchestrálního koncertu Ensemble Opera Diversa bude uvedena premiéra skladby pro klavír a smyčcový orchestr Jiřího Slabihoudka."
   aktualni: ano
