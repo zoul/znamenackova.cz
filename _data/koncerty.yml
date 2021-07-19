@@ -207,9 +207,11 @@
 - nazev: Galakoncert k výročí úmrtí Bohuslava Martinů
   datum: 28. srpna 18:00
   misto: Tylův dům, Polička
-  program: B. Martinů: Kuchyňská Revue
+  program: B. Martinů, Kuchyňská Revue
+  aktualni: ano
 - nazev: Jan Novák 100
   datum: 6. října 19:00
   misto: Besední dům Brno
-  program: J. Novák: Concentus Biiugis
+  program: J. Novák, Concentus Biiugis
   text: "Spoluúčinkuje Ensemble Opera Diversa a Lucie Schinzelová."
+  aktualni: ano
