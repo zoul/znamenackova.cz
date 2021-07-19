@@ -194,16 +194,22 @@
   datum: 20. října
   misto: Kroměříž
   text: "Spoluúčinkují Eliška Hrochová a Pavla Marková."
-  aktualni: ano
 - nazev: Písně bezvětří
   datum: 19. listopadu, 19:00
   misto: Dům umění města Brna
   program: B. Martinů, V. Kaprálová
   text: "Spoluúčinkují Jana Vondrů (soprán) a Tereza Marečková (mluvené slovo)."
-  aktualni: ano
 - nazev: Hudební inventura 2020
   datum: 23. listopadu 19:00
   misto: Konvent Milosrdných bratří, Brno
   program: J. Slabihoudek
   text: "V rámci orchestrálního koncertu Ensemble Opera Diversa bude uvedena premiéra skladby pro klavír a smyčcový orchestr Jiřího Slabihoudka."
-  aktualni: ano
+- nazev: Galakoncert k výročí úmrtí Bohuslava Martinů
+  datum: 28. srpna 18:00
+  misto: Tylův dům, Polička
+  program: B. Martinů: Kuchyňská Revue
+- nazev: Jan Novák 100
+  datum: 6. října 19:00
+  misto: Besední dům Brno
+  program: J. Novák: Concentus Biiugis
+  text: "Spoluúčinkuje Ensemble Opera Diversa a Lucie Schinzelová."
