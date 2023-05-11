@@ -208,16 +208,31 @@
   datum: 28. srpna 18:00
   misto: Tylův dům, Polička
   program: B. Martinů, Kuchyňská Revue
-  aktualni: ano
 - nazev: Jan Novák 100
   datum: 6. října 19:00
   misto: Besední dům Brno
   program: J. Novák, Concentus Biiugis
   text: "Spoluúčinkuje Ensemble Opera Diversa a Lucie Schinzelová."
-  aktualni: ano
 - nazev: Musa Bohemica
   datum: 23. listopadu 
   misto: Nadsklepí, Kroměříž
   program: J. Novák, K. Slavický, B. Martinů
   text: "Spoluúčinkují Pavla Marková (klavír) a Eliška Hrochová (zpěv)."
+- nazev: Jarní koncert
+  datum: 14. května 2023 17:00
+  misto: Vila Löw-Beer ve Svitávce
+  program: Vítězslava Kaprálová, Bohuslav Martinů
+  text: "Spoluúčinkuje Jana Vondrů (soprán)."
+  aktualni: ano
+- nazev: vážně? Jana Vondrů
+  datum: 25. května 2023 19:00
+  misto: Evangelický kostel Boskovice
+  program: Vítězslava Kaprálová, Bohuslav Martinů
+  text: "Spoluúčinkuje Jana Vondrů (soprán)."
+  aktualni: ano
+- nazev: Písně bezvětří
+  datum: 14. června 2023 19:30
+  misto: Divadlo Husa na provázku
+  program: Vítězslava Kaprálová, Bohuslav Martinů
+  text: "Spoluúčinkují Jana Vondrů (soprán) a Tereza Marečková (slovo)."
   aktualni: ano
